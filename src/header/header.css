@@ -1,0 +1,15 @@
+.header {
+  display: flex;
+  padding: 10px 24px;
+}
+.h-title {
+  flex: 1;
+  font-size: 32px;
+  color: plum;
+  text-align: left;
+  line-height: 100%;
+}
+.h-right {
+  flex: 1;
+  text-align: right;
+}
